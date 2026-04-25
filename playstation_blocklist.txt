@@ -1,0 +1,12 @@
+! Title: PlayStation Update Blocklist
+! Description: Blocks PlayStation update servers to prevent automatic PS4 updates
+! Expires: 7 days
+
+! === PlayStation Update Servers ===
+||uk01.ps4.update.playstation.net^
+||duk01.ps4.update.playstation.net^
+||fus01.ps4.update.playstation.net^
+||al02.cdn.update.playstation.net^
+||a01.cdn.update.playstation.org.edgesuite.net^
+||playstation.sony.akadns.net^
+||a192.d.akamai.net^
